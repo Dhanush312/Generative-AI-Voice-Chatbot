@@ -85,12 +85,10 @@ Watch here: https://www.youtube.com/watch?v=QW-NFkVDfdA
 
 
 Clone the Repository:
+------------------------------
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Dhanush312/Generative-AI-Voice-Chatbot)
+cd Generative-AI-Voice-Chatbot
 Open the Project:
 
 Open index.html in your preferred web browser to run the project locally. You can also deploy the project on any static hosting service (e.g., GitHub Pages, Netlify).
