@@ -45,19 +45,43 @@ Custom SVG icons and images are used throughout the project to represent various
 
 Installation & Usage
 --------------------
-ChatBot with Open AI and LangChain
+> ChatBot with Open AI and LangChain
 
 Colab Link: https://colab.research.google.com/drive/1miK4Xbqv9lYkfe0z6jMh41fA_itulAA0?usp=sharing
-Prompts and Examples
 
 
+> Prompts and Examples
+https://inky-ironclad-8d2.notion.site/Prompts-and-Examples-d8e43f5d3e7e451a99e50a9bd3643ada
+
+> Code snippets to publish
+Depending on which Gradio version you are using, the script tag should be updated
+Follow the below steps:
+
+Navigate to Your Workspace: Access your workspace where your project is located.
+Access More Options: Click on the three dots to reveal additional options.
+Embed Your Space: Choose the Embed this space option from the menu.
+Copy Script Tag: Find the script tag in the provided section and copy the link.
+
+![image](https://github.com/user-attachments/assets/bf2dd5e3-01d7-43af-bb85-1282fe71208c)
 
 
+Update Your HTML Code: Replace the existing script tag in your original HTML code with the copied link.
 
 
+> ChatBot with Open AI, LangChain, and PlayHT
+Colab Link:
+https://colab.research.google.com/drive/1LS-w4UuAWRQfX_zM1WHXdCfofleI91g0?usp=sharing
 
+> Handbook for Troubleshooting Errors (If any)
+ChatBot with Open AI and LangChain Handbook:
+https://inky-ironclad-8d2.notion.site/ChatBot-with-Open-AI-and-LangChain-Handbook-36aee0b81838457e91a14c4ddf3378ce
 
+ChatBot with Open AI, LangChain, and PlayHT Handbook:
+https://lily-odometer-77d.notion.site/ChatBot-with-Open-AI-LangChain-and-PlayHT-b518566d30194da093bd1b21f82085a4
 
+> Reference
+Frost Film: The Frost is a 12-minute short film that was created entirely with AI-generated imagery
+Watch here: https://www.youtube.com/watch?v=QW-NFkVDfdA
 
 
 Clone the Repository:
