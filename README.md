@@ -45,6 +45,21 @@ Custom SVG icons and images are used throughout the project to represent various
 
 Installation & Usage
 --------------------
+ChatBot with Open AI and LangChain
+
+Colab Link: https://colab.research.google.com/drive/1miK4Xbqv9lYkfe0z6jMh41fA_itulAA0?usp=sharing
+Prompts and Examples
+
+
+
+
+
+
+
+
+
+
+
 Clone the Repository:
 
 bash
