@@ -87,7 +87,7 @@ Watch here: https://www.youtube.com/watch?v=QW-NFkVDfdA
 Clone the Repository:
 ------------------------------
 
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Dhanush312/Generative-AI-Voice-Chatbot)
+git clone https://github.com/Dhanush312/Generative-AI-Voice-Chatbot
 cd Generative-AI-Voice-Chatbot
 Open the Project:
 
